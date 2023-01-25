@@ -11,6 +11,8 @@ const ProjectList = () => (
     }
   >
     <div className="flex flex-col gap-1">
+      <Episode code="3MHJQ71dBsfw764dTEcz6h"></Episode>
+      <Episode code="2LnrvxmVfkPjtIs21ntKLG"></Episode>
       <Episode code="3jnJGdBj1FErVen17hjMEZ"></Episode>
       <Episode code="7qZK6HVoY7VZCerQ3X6f8n"></Episode>
       <Episode code="2Mc5fhvIRrwcIuLJ9PJtaZ"></Episode>
