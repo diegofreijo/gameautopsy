@@ -55,7 +55,7 @@ const Hero = () => (
               alt="Spotify icon"
             />
           </a>
-          <a href="https://twitter.com/GameAutopsy" target={'_blank'}>
+          <a href="https://twitter.com/thegameautopsy" target={'_blank'}>
             <HeroSocial
               src="/assets/images/twitter-icon.png"
               alt="Twitter icon"
