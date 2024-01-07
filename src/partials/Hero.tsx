@@ -61,10 +61,10 @@ const Hero = () => (
               alt="Twitter icon"
             />
           </a>
-          <a href="https://www.twitch.tv/gameautopsy" target={'_blank'}>
+          <a href="https://www.instagram.com/thegameautopsy/" target={'_blank'}>
             <HeroSocial
-              src="/assets/images/twitch-icon.png"
-              alt="Twitch icon"
+              src="/assets/images/instagram-icon.png"
+              alt="Instagram icon"
             />
           </a>
         </>
